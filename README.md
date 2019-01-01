@@ -5,6 +5,7 @@ Vehicles are processed through a repair center, using procedural programming
 Completed as a university assignment 
 
 Tasks:
+
 deals with the vehicles on a one by one basis, in the order specifed in the input file.
 
 Each vehicle is worked on by a randomly chosen mechanic.
