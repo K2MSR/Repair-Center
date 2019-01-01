@@ -23,3 +23,5 @@ Once given a fix the vehicle leaves, regardless of success.
 
 # TODO
 Fix up the code and add proper documentation
+
+Include example files to test and explain the constraints for each file
